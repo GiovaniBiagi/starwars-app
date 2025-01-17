@@ -38,12 +38,14 @@ npm run dev
 
 ## Project Structure
 
+<pre>
 app/
 ├── components/ # Reusable UI components
 ├── routes/ # Application routes
 ├── models/ # TypeScript interfaces & schemas
 ├── lib/ # Utilities and API client
 └── public/ # Static assets
+</pre>
 
 ## Available Scripts
 
